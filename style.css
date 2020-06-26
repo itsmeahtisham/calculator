@@ -1,0 +1,41 @@
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 30% !important;
+    border-radius: 30px;
+    padding: 10px 30px !important;
+    background-color: #f3f3f3;
+    margin-top: 5%;
+}
+
+.inp {
+    margin: 25px 0px 10px !important;
+}
+
+#input {
+    width: 96%;
+    height: 80px;
+    border: none !important;
+    padding: 7px;
+    border-radius: 3px;
+    background-color: #f3f3f3;
+    font-size: 25px;
+}
+
+.btn_num {
+    margin: 3px auto;
+    width: 20%;
+    background-color: transparent !important;
+    color: black !important;
+    border-radius: 50% !important;
+    padding: 25px 23px 25px !important;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: large !important;
+}
+
+.col-sm-12 {
+    padding: 10px !important;
+}
